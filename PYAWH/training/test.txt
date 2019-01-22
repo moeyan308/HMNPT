@@ -1,0 +1,14 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 0AF6-4EA6
+
+ Directory of D:\PYAWH\training
+
+01/18/2019  11:01 AM    <DIR>          .
+01/18/2019  11:01 AM    <DIR>          ..
+01/18/2019  10:59 AM    <DIR>          .idea
+01/18/2019  10:50 AM               369 command.py
+01/18/2019  10:58 AM               277 shellcommand.py
+01/18/2019  11:01 AM                 0 test.txt
+01/18/2019  10:35 AM    <DIR>          venv
+               3 File(s)            646 bytes
+               4 Dir(s)  228,377,903,104 bytes free
